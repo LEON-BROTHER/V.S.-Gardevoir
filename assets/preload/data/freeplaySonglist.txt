@@ -1,0 +1,3 @@
+Confusion:gar:1
+Psyshock:gar:1
+Keystone:mega-gar:1
